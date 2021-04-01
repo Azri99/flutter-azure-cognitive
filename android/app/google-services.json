@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "508695647081",
+    "project_id": "nutrition-calories",
+    "storage_bucket": "nutrition-calories.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:508695647081:android:bc8320e09da48fb1dd63f8",
+        "android_client_info": {
+          "package_name": "com.example.testRun"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "508695647081-1bmqg60lu9mq8lbbu69t77iv4jfh60a3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAtjYZT6dVYbuosbsobXILjE9EG8rAu6NU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "508695647081-1bmqg60lu9mq8lbbu69t77iv4jfh60a3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
